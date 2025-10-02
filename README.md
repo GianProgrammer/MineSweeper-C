@@ -22,20 +22,20 @@
     SDL2_ttf-2.24.0/lib/SDL2_ttf.dll
 
 ### Linux
-    ```bash
+   ```bash
         sudo apt install libsdl2-dev libsdl2-ttf-dev
-    ```
+   ```
 
 ## Estructura
-.
-├── celdas.c/.h
-├── estadisticas.c/.h
-├── menu.c/.h
-├── main.c
-├── sprite*.h      (cabeceras con arrays de sprites)
-├── SDL2-2.0.22/   (no trackeado)
-├── SDL2_ttf-2.24.0/ (no trackeado)
-└── README.md
+.  
+├── celdas.c/.h  
+├── estadisticas.c/.h  
+├── menu.c/.h  
+├── main.c  
+├── sprite*.h      (cabeceras con arrays de sprites)  
+├── SDL2-2.0.22/   (no trackeado)  
+├── SDL2_ttf-2.24.0/ (no trackeado)  
+└── README.md  
 
 ## Autor
 
