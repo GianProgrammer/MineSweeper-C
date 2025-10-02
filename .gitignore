@@ -1,0 +1,19 @@
+# Code::Blocks
+*.layout
+*.depend
+*.cbp.save
+bin/
+obj/
+.vscode/
+*.cbp
+
+# SDL2 bins (los usuarios deben instalarlas por sí mismos)
+SDL2-2.0.22/
+SDL2_ttf-2.24.0/
+
+# Ejecutables generados
+*.exe
+*.out
+*.o
+*.dll
+*.so
